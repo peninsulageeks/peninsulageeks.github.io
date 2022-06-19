@@ -1105,7 +1105,7 @@ section.lazy-placeholder:after {
 }
 .cid-t9bCIMWfIz .mbr-section-subtitle,
 .cid-t9bCIMWfIz .mbr-section-title .accent-word {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-t9bCIMWfIz .mbr-text,
 .cid-t9bCIMWfIz .mbr-section-btn {
@@ -1150,4 +1150,5 @@ section.lazy-placeholder:after {
 }
 .cid-t9bILuToPa .mbr-text {
   color: #696969;
+  text-align: left;
 }
