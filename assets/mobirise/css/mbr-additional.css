@@ -19,7 +19,7 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -553,7 +553,7 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 blockquote {
   border-color: #66458e;
@@ -1110,10 +1110,11 @@ section.lazy-placeholder:after {
 .cid-t9bCIMWfIz .mbr-text,
 .cid-t9bCIMWfIz .mbr-section-btn {
   color: #232323;
+  text-align: left;
 }
 .cid-t9bILuToPa {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
   background-color: #f9f9f9;
 }
 @media (max-width: 767px) {
@@ -1134,7 +1135,7 @@ section.lazy-placeholder:after {
 }
 .cid-t9bILuToPa .card-wrapper {
   border-radius: 2rem;
-  background-color: #eeeeee;
+  background-color: #ffffff;
   transition: all 0.3s;
 }
 .cid-t9bILuToPa .card-wrapper:hover {
